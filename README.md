@@ -21,3 +21,6 @@ Date:     2016-07-27
 8.  Create files
 9.  Modify package.json
 10. Run with nodemon
+11. Add .gitignore file with node_modules
+11. git add .
+12. git commit -a -m "Routing examples"
