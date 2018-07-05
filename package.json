@@ -1,0 +1,19 @@
+{
+  "name": "routing-examples",
+  "version": "1.0.0",
+  "description": "This project is just a means to explore different examples of routing.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon",
+    "startnode": "node src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Robert Glover",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "http": "0.0.0",
+    "node": "^10.5.0"
+  }
+}
