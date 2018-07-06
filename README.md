@@ -1,9 +1,10 @@
 # Routing Examples
 
 Project:  This project is just a means to explore different examples of routing:
-          1.  Node.js only
-          2.  Node and Express with App Only
-          3.  Node and Express with Routing
+          1.  Node.js only in plain text
+          2.  Node.js in html
+          3.  Node and Express with App Only
+          4.  Node and Express with Routing
 Author:   Robert Glover
 Date:     2016-07-27
 
